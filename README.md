@@ -1,1 +1,1 @@
-# .github
+# DailyLab in Yonsei
